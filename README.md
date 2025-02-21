@@ -1,4 +1,4 @@
-# -Principal-Component-Analysis
+# Principal-Component-Analysis
 
 Task 1: Exploratory Data Analysis (EDA):
 1.	Load the dataset and perform basic data exploration.
